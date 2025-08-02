@@ -99,6 +99,8 @@ MIT
 
 - [blxssvd (blessed)](https://github.com/blxssvdd)
 
+**В будущем я не буду выкладывать бота на GitHub, он будет для личного использования.**
+
 ---
 
 **Спасибо, что используете Blessed Discord Bot!**  
